@@ -5,12 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshdhairya99&label=Profile%20views&color=0e75b6&style=flat" alt="anshdhairya99" /> </p>
 
 - 🌱 I’m currently learning **Django, Python Using Data Science**
+- ⚜ Certification On :- Artificial Intelligence, Network Security(IIT Kanpur), Machine Learning, Data Analysis using Python(CloudxLab), Geo-Data Sharing Cyber Security(IIRS Outreach Program "ISRO"), Digital Marketing(IBM), Cyber Security(CSC Academy Collaboration of Ecole Superieur Robert De Sorban-"France")
 
 - 📫 How to reach me **anshinbox44@gmail.com**
 
 - ⚡ Fun fact **I am Funny😊**
 
-<h3 align="left">Connect with me: Linkdinhttps://www.linkedin.com/in/ansh-dhairya-%F0%9F%87%AE%F0%9F%87%B3-b77430253 </h3>
+<h3 align="left"> Follow me on Linkdin :- Linkdinhttps://www.linkedin.com/in/ansh-dhairya-%F0%9F%87%AE%F0%9F%87%B3-b77430253 </h3>
 <p align="left">
 </p>
 
@@ -23,5 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshdhairya99&show_icons=true&locale=en" alt="anshdhairya99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshdhairya99&" alt="anshdhairya99" /></p>
-Support Me❤
 Support Me❤
