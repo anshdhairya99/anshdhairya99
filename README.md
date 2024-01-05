@@ -11,7 +11,7 @@
 
 - ⚡ Hobbies - **I Loved Coding!❤**
 
-<h3 align="left"> Follow me on Linkdin :- Linkdinhttps://www.linkedin.com/in/ansh-dhairya-%F0%9F%87%AE%F0%9F%87%B3-b77430253 </h3>
+<h3 align="left"> Follow me on Linkdin :- www.linkedin.com/in/ansh-dhairya-🇮🇳-b77430253 </h3>
 <p align="left">
 </p>
 
