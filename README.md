@@ -11,7 +11,7 @@
 
 - ⚡ Hobbies - **I Loved Coding & Play Cricket!❤**
 - 🔹 Coding Contest - **Coding Ninjas & Hacker Rank🔰**
-- 🧿 Aim - **Software Developer in MNC'S** 
+- 🧿 Aim - **A.I Developer in MNC'S** 
 
 <h3 align="left"> ⚜Follow me on Linkdin👨‍🎓 :- www.linkedin.com/in/ansh-dhairya-🇮🇳-b77430253 </h3>
 <p align="left">
