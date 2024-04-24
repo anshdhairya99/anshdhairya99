@@ -25,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshdhairya99&show_icons=true&locale=en" alt="anshdhairya99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshdhairya99&" alt="anshdhairya99"img/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshdhairya99&" alt="anshdhairya99"/></p>
 Thanks for Visiting On My Github Profile!❤
 Keep Learning and Keep grow!!🙌
