@@ -11,9 +11,9 @@
 
 - ⚡ Hobbies - **I Loved Coding & Play Cricket!❤**
 - 🔹 Coding Contest - **Coding Ninjas & Hacker Rank🔰**
-- 🧿 Aim - **A.I Developer in MNC'S** 
+- 🧿 Aim - **A.I Developer in MNC'S. I Loved the Creativity & build the Project On A.I** 
 
-<h3 align="left"> ⚜Follow me on Linkdin👨‍🎓 :- www.linkedin.com/in/ansh-dhairya-🇮🇳-b77430253 </h3>
+<h3 align="left"> ⚜Follow me on Linkdin👨‍🎓 :- www.linkedin.com/in/ansh-dhairya </h3>
 <p align="left">
 </p>
 
@@ -25,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshdhairya99&show_icons=true&locale=en" alt="anshdhairya99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshdhairya99&" alt="anshdhairya99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshdhairya99&" alt="anshdhairya99"img/></p>
 Thanks for Visiting On My Github Profile!❤
 Keep Learning and Keep grow!!🙌
