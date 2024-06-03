@@ -5,10 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshdhairya99&label=Profile%20views&color=0e75b6&style=flat" alt="anshdhairya99" /> </p>
 
 - 📫 How to reach me (via e-mail)- **work.anshdhairya@gmail.com**
-- ⚡ Hobbies - **I Loved Coding & Play Cricket!❤**
+- ⚡ Hobbies - **I Loved Coding & Problem Solver🧿!❤**
 - 🔹 Coding Contest - **Coding Ninjas & Hacker Rank🔰**
-- 🧿 Aim - **A.I Developer. I Loved the Creativity & build the Project On A.I**
-- 
+- 🧿 Aim - **To became a succesfull A.I Developer & Innovative in Tech Field**
+- ⚜ Technologies Explore:-- **Artificial Intelligence, Machine Learning, Deep Learning, Generative A.I, Neural Network, Cyber-Security, Prompt Engineering, GenAlus Carrers, Data Science, Soft-Computing, Natural Language Processing**
+- 👨‍💻 Future:- **I don't miss the opportunity to learn the new technology**
 <h3 align="left">Connect with me:--------</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ansh-dhairya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ansh-dhairya" height="30" width="40" /></a>
