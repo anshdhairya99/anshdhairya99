@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshdhairya99&label=Profile%20views&color=0e75b6&style=flat" alt="anshdhairya99" /> </p>
 
-- 📫 How to reach me (via e-mail)- **work.anshdhairya@gmail.com**
+- 📫 How to reach me - **LINKDIN, INSTAGRAM, TWITTER, DISCORD**
 - ⚡ Hobbies - **I Loved Coding & Problem Solver🧿!❤**
 - 🔹 Coding Contest - **Coding Ninjas & Hacker Rank🔰**
 - 🧿 Aim - **To became a succesfull A.I Developer & Innovative in Tech Field**
