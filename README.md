@@ -1,7 +1,7 @@
 <h1 align="center">Welcome To My Github Profile Hi 👋, I'm ANSH DHAIRYA</h1>
 <h3 align="center">A Passionate In (Artificial Intelligence & Machine Learning)👨‍💻.</h3>
 <img align="right"
-alt="coding"width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"></img>
+alt="coding"width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshdhairya99&label=Profile%20views&color=0e75b6&style=flat" alt="anshdhairya99" /> </p>
 
@@ -9,7 +9,7 @@ alt="coding"width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce4
 - ⚡ Hobbies - **I Loved Coding & Problem Solver🧿!❤**
 - 🔹 Coding Contest - **Coding Ninjas & Hacker Rank🔰**
 - 🧿 Aim - **To became a succesfull A.I Developer & Innovative in Tech Field**
-- ⚜ Technologies Explore:-- **Artificial Intelligence, Machine Learning, Deep Learning, Generative A.I, Neural Network, Cyber-Security, Prompt Engineering, GenAlus Carrers, Data Science, Soft-Computing, Natural Language Processing**
+- ⚜ Technologies Explore:-- **Artificial Intelligence, Machine Learning, Deep Learning, Generative A.I, Neural Network, Cyber-Security, Prompt Engineering, GenAlus Carrers, Data Science, Soft-Computing, Natural Language Processing, C, Python+OOPS, Generative A.I, Cloud-Computing, operating System**
 - 👨‍💻 Future:- **I don't miss the opportunity to learn the new technology**
 <h3 align="left">Connect with me:--------</h3>
 <p align="left">
